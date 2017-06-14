@@ -1,4 +1,4 @@
-package com.candidjava;
+package com.ibm.registration;
 
 import java.io.IOException;
 import java.io.PrintWriter;
